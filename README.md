@@ -13,4 +13,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/anshulkansal121/LeetCode/tree/master/0054-spiral-matrix) |
+## Math
+|  |
+| ------- |
+| [0273-integer-to-english-words](https://github.com/anshulkansal121/LeetCode/tree/master/0273-integer-to-english-words) |
+## String
+|  |
+| ------- |
+| [0273-integer-to-english-words](https://github.com/anshulkansal121/LeetCode/tree/master/0273-integer-to-english-words) |
+## Recursion
+|  |
+| ------- |
+| [0273-integer-to-english-words](https://github.com/anshulkansal121/LeetCode/tree/master/0273-integer-to-english-words) |
 <!---LeetCode Topics End-->
