@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/anshulkansal121/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/anshulkansal121/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/anshulkansal121/LeetCode/tree/master/0724-find-pivot-index) |
+| [0921-spiral-matrix-iii](https://github.com/anshulkansal121/LeetCode/tree/master/0921-spiral-matrix-iii) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/anshulkansal121/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/anshulkansal121/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/anshulkansal121/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -21,11 +22,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/anshulkansal121/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/anshulkansal121/LeetCode/tree/master/0054-spiral-matrix) |
+| [0921-spiral-matrix-iii](https://github.com/anshulkansal121/LeetCode/tree/master/0921-spiral-matrix-iii) |
 | [2428-equal-row-and-column-pairs](https://github.com/anshulkansal121/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/anshulkansal121/LeetCode/tree/master/0054-spiral-matrix) |
+| [0921-spiral-matrix-iii](https://github.com/anshulkansal121/LeetCode/tree/master/0921-spiral-matrix-iii) |
 | [2428-equal-row-and-column-pairs](https://github.com/anshulkansal121/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 ## Math
 |  |
