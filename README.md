@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0018-4sum](https://github.com/anshulkansal121/LeetCode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anshulkansal121/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/anshulkansal121/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/anshulkansal121/LeetCode/tree/master/0054-spiral-matrix) |
@@ -74,11 +75,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0018-4sum](https://github.com/anshulkansal121/LeetCode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anshulkansal121/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/anshulkansal121/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/anshulkansal121/LeetCode/tree/master/0018-4sum) |
 | [0229-majority-element-ii](https://github.com/anshulkansal121/LeetCode/tree/master/0229-majority-element-ii) |
 | [1777-determine-if-two-strings-are-close](https://github.com/anshulkansal121/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/anshulkansal121/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
