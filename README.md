@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/anshulkansal121/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/anshulkansal121/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/anshulkansal121/LeetCode/tree/master/0054-spiral-matrix) |
 | [0128-longest-consecutive-sequence](https://github.com/anshulkansal121/LeetCode/tree/master/0128-longest-consecutive-sequence) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/anshulkansal121/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/anshulkansal121/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Sorting
 |  |
