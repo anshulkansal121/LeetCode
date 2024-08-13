@@ -193,4 +193,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/anshulkansal121/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+## Stack
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/anshulkansal121/LeetCode/tree/master/0155-min-stack) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/anshulkansal121/LeetCode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
