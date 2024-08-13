@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/anshulkansal121/LeetCode/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/anshulkansal121/LeetCode/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/anshulkansal121/LeetCode/tree/master/0189-rotate-array) |
 | [0273-integer-to-english-words](https://github.com/anshulkansal121/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0870-magic-squares-in-grid](https://github.com/anshulkansal121/LeetCode/tree/master/0870-magic-squares-in-grid) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/anshulkansal121/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
+| [0050-powx-n](https://github.com/anshulkansal121/LeetCode/tree/master/0050-powx-n) |
 | [0273-integer-to-english-words](https://github.com/anshulkansal121/LeetCode/tree/master/0273-integer-to-english-words) |
 ## Prefix Sum
 |  |
