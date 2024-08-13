@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/anshulkansal121/LeetCode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/anshulkansal121/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/anshulkansal121/LeetCode/tree/master/1833-find-the-highest-altitude) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/anshulkansal121/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2428-equal-row-and-column-pairs](https://github.com/anshulkansal121/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 ## Matrix
 |  |
