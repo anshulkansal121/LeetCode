@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/anshulkansal121/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0229-majority-element-ii](https://github.com/anshulkansal121/LeetCode/tree/master/0229-majority-element-ii) |
 | [0485-max-consecutive-ones](https://github.com/anshulkansal121/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/anshulkansal121/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/anshulkansal121/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/anshulkansal121/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/anshulkansal121/LeetCode/tree/master/0643-maximum-average-subarray-i) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/anshulkansal121/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0229-majority-element-ii](https://github.com/anshulkansal121/LeetCode/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/anshulkansal121/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0496-next-greater-element-i](https://github.com/anshulkansal121/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/anshulkansal121/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0870-magic-squares-in-grid](https://github.com/anshulkansal121/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/anshulkansal121/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/anshulkansal121/LeetCode/tree/master/0155-min-stack) |
+| [0496-next-greater-element-i](https://github.com/anshulkansal121/LeetCode/tree/master/0496-next-greater-element-i) |
 ## Design
 |  |
 | ------- |
@@ -208,4 +211,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0890-lemonade-change](https://github.com/anshulkansal121/LeetCode/tree/master/0890-lemonade-change) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/anshulkansal121/LeetCode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
