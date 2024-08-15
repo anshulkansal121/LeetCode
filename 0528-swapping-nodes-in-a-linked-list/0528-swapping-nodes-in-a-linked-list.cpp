@@ -39,3 +39,11 @@ public:
         
     }
 };
+
+auto init = []
+{
+    ios::sync_with_stdio(NULL);
+    cin.tie(NULL);
+    cout.tie(NULL);
+    return 'c';
+}();
