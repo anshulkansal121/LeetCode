@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/anshulkansal121/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0048-rotate-image](https://github.com/anshulkansal121/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/anshulkansal121/LeetCode/tree/master/0054-spiral-matrix) |
+| [0078-subsets](https://github.com/anshulkansal121/LeetCode/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/anshulkansal121/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/anshulkansal121/LeetCode/tree/master/0090-subsets-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/anshulkansal121/LeetCode/tree/master/0128-longest-consecutive-sequence) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/anshulkansal121/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/anshulkansal121/LeetCode/tree/master/0040-combination-sum-ii) |
+| [0078-subsets](https://github.com/anshulkansal121/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/anshulkansal121/LeetCode/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/anshulkansal121/LeetCode/tree/master/0113-path-sum-ii) |
 | [0216-combination-sum-iii](https://github.com/anshulkansal121/LeetCode/tree/master/0216-combination-sum-iii) |
@@ -228,5 +230,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/anshulkansal121/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/anshulkansal121/LeetCode/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
