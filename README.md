@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/anshulkansal121/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/anshulkansal121/LeetCode/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/anshulkansal121/LeetCode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/anshulkansal121/LeetCode/tree/master/0204-count-primes) |
 | [0216-combination-sum-iii](https://github.com/anshulkansal121/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0229-majority-element-ii](https://github.com/anshulkansal121/LeetCode/tree/master/0229-majority-element-ii) |
 | [0485-max-consecutive-ones](https://github.com/anshulkansal121/LeetCode/tree/master/0485-max-consecutive-ones) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/anshulkansal121/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/anshulkansal121/LeetCode/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/anshulkansal121/LeetCode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/anshulkansal121/LeetCode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/anshulkansal121/LeetCode/tree/master/0231-power-of-two) |
 | [0273-integer-to-english-words](https://github.com/anshulkansal121/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0870-magic-squares-in-grid](https://github.com/anshulkansal121/LeetCode/tree/master/0870-magic-squares-in-grid) |
@@ -240,4 +242,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/anshulkansal121/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/anshulkansal121/LeetCode/tree/master/0090-subsets-ii) |
 | [0231-power-of-two](https://github.com/anshulkansal121/LeetCode/tree/master/0231-power-of-two) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/anshulkansal121/LeetCode/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/anshulkansal121/LeetCode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
