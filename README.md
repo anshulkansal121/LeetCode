@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/anshulkansal121/LeetCode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/anshulkansal121/LeetCode/tree/master/0231-power-of-two) |
 | [0273-integer-to-english-words](https://github.com/anshulkansal121/LeetCode/tree/master/0273-integer-to-english-words) |
+| [0650-2-keys-keyboard](https://github.com/anshulkansal121/LeetCode/tree/master/0650-2-keys-keyboard) |
 | [0870-magic-squares-in-grid](https://github.com/anshulkansal121/LeetCode/tree/master/0870-magic-squares-in-grid) |
 ## String
 |  |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/anshulkansal121/LeetCode/tree/master/0131-palindrome-partitioning) |
+| [0650-2-keys-keyboard](https://github.com/anshulkansal121/LeetCode/tree/master/0650-2-keys-keyboard) |
 | [0943-sum-of-subarray-minimums](https://github.com/anshulkansal121/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/anshulkansal121/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/anshulkansal121/LeetCode/tree/master/2067-maximum-number-of-points-with-cost) |
