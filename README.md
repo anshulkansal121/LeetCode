@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0943-sum-of-subarray-minimums](https://github.com/anshulkansal121/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [0966-binary-subarrays-with-sum](https://github.com/anshulkansal121/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/anshulkansal121/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/anshulkansal121/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/anshulkansal121/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/anshulkansal121/LeetCode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/anshulkansal121/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/anshulkansal121/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/anshulkansal121/LeetCode/tree/master/0724-find-pivot-index) |
 | [0966-binary-subarrays-with-sum](https://github.com/anshulkansal121/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/anshulkansal121/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1833-find-the-highest-altitude](https://github.com/anshulkansal121/LeetCode/tree/master/1833-find-the-highest-altitude) |
 ## Sliding Window
 |  |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/anshulkansal121/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/anshulkansal121/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0966-binary-subarrays-with-sum](https://github.com/anshulkansal121/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/anshulkansal121/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/anshulkansal121/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Dynamic Programming
 |  |
