@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/anshulkansal121/LeetCode/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/anshulkansal121/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/anshulkansal121/LeetCode/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/anshulkansal121/LeetCode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/anshulkansal121/LeetCode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/anshulkansal121/LeetCode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/anshulkansal121/LeetCode/tree/master/0231-power-of-two) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/anshulkansal121/LeetCode/tree/master/0070-climbing-stairs) |
 | [0131-palindrome-partitioning](https://github.com/anshulkansal121/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0650-2-keys-keyboard](https://github.com/anshulkansal121/LeetCode/tree/master/0650-2-keys-keyboard) |
 | [0943-sum-of-subarray-minimums](https://github.com/anshulkansal121/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
@@ -299,4 +301,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/anshulkansal121/LeetCode/tree/master/0204-count-primes) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/anshulkansal121/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
