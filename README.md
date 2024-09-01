@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-find-the-highest-altitude](https://github.com/anshulkansal121/LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/anshulkansal121/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/anshulkansal121/LeetCode/tree/master/2067-maximum-number-of-points-with-cost) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/anshulkansal121/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2227-sum-of-subarray-ranges](https://github.com/anshulkansal121/LeetCode/tree/master/2227-sum-of-subarray-ranges) |
 | [2428-equal-row-and-column-pairs](https://github.com/anshulkansal121/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 | [3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/anshulkansal121/LeetCode/tree/master/3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0870-magic-squares-in-grid](https://github.com/anshulkansal121/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/anshulkansal121/LeetCode/tree/master/0921-spiral-matrix-iii) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/anshulkansal121/LeetCode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/anshulkansal121/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2428-equal-row-and-column-pairs](https://github.com/anshulkansal121/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 | [3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/anshulkansal121/LeetCode/tree/master/3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
 ## Simulation
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/anshulkansal121/LeetCode/tree/master/0054-spiral-matrix) |
 | [0735-asteroid-collision](https://github.com/anshulkansal121/LeetCode/tree/master/0735-asteroid-collision) |
 | [0921-spiral-matrix-iii](https://github.com/anshulkansal121/LeetCode/tree/master/0921-spiral-matrix-iii) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/anshulkansal121/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2428-equal-row-and-column-pairs](https://github.com/anshulkansal121/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 ## Math
 |  |
