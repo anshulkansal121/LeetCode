@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/anshulkansal121/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/anshulkansal121/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/anshulkansal121/LeetCode/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/anshulkansal121/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/anshulkansal121/LeetCode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/anshulkansal121/LeetCode/tree/master/0204-count-primes) |
 | [0216-combination-sum-iii](https://github.com/anshulkansal121/LeetCode/tree/master/0216-combination-sum-iii) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/anshulkansal121/LeetCode/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/anshulkansal121/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/anshulkansal121/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/anshulkansal121/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/anshulkansal121/LeetCode/tree/master/0189-rotate-array) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/anshulkansal121/LeetCode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/anshulkansal121/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/anshulkansal121/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/anshulkansal121/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/anshulkansal121/LeetCode/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/anshulkansal121/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0540-single-element-in-a-sorted-array](https://github.com/anshulkansal121/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/anshulkansal121/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Divide and Conquer
