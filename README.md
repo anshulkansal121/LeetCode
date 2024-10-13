@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-spiral-matrix-iii](https://github.com/anshulkansal121/LeetCode/tree/master/0921-spiral-matrix-iii) |
 | [0943-sum-of-subarray-minimums](https://github.com/anshulkansal121/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [0966-binary-subarrays-with-sum](https://github.com/anshulkansal121/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
+| [1002-maximum-width-ramp](https://github.com/anshulkansal121/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [1370-count-number-of-nice-subarrays](https://github.com/anshulkansal121/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/anshulkansal121/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/anshulkansal121/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/anshulkansal121/LeetCode/tree/master/0735-asteroid-collision) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/anshulkansal121/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0943-sum-of-subarray-minimums](https://github.com/anshulkansal121/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
+| [1002-maximum-width-ramp](https://github.com/anshulkansal121/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [2227-sum-of-subarray-ranges](https://github.com/anshulkansal121/LeetCode/tree/master/2227-sum-of-subarray-ranges) |
 ## Design
 |  |
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/anshulkansal121/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/anshulkansal121/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/anshulkansal121/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
+| [1002-maximum-width-ramp](https://github.com/anshulkansal121/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [2227-sum-of-subarray-ranges](https://github.com/anshulkansal121/LeetCode/tree/master/2227-sum-of-subarray-ranges) |
 ## Bit Manipulation
 |  |
