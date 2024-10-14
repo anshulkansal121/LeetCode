@@ -7,8 +7,8 @@ public:
             q.push(n);
         }
         while (k--) {
+            score += q.top();
             double n = q.top();
-            score += n;
             q.pop();
             q.push(ceil(n / 3));
         }
