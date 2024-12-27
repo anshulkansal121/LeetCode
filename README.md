@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0943-sum-of-subarray-minimums](https://github.com/anshulkansal121/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [0966-binary-subarrays-with-sum](https://github.com/anshulkansal121/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1002-maximum-width-ramp](https://github.com/anshulkansal121/LeetCode/tree/master/1002-maximum-width-ramp) |
+| [1063-best-sightseeing-pair](https://github.com/anshulkansal121/LeetCode/tree/master/1063-best-sightseeing-pair) |
 | [1370-count-number-of-nice-subarrays](https://github.com/anshulkansal121/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/anshulkansal121/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/anshulkansal121/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/anshulkansal121/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0650-2-keys-keyboard](https://github.com/anshulkansal121/LeetCode/tree/master/0650-2-keys-keyboard) |
 | [0943-sum-of-subarray-minimums](https://github.com/anshulkansal121/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
+| [1063-best-sightseeing-pair](https://github.com/anshulkansal121/LeetCode/tree/master/1063-best-sightseeing-pair) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/anshulkansal121/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/anshulkansal121/LeetCode/tree/master/2067-maximum-number-of-points-with-cost) |
 ## Hash Table
