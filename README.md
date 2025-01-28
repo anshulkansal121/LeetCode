@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2616-maximal-score-after-applying-k-operations](https://github.com/anshulkansal121/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/anshulkansal121/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/anshulkansal121/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/anshulkansal121/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3427-special-array-ii](https://github.com/anshulkansal121/LeetCode/tree/master/3427-special-array-ii) |
 | [3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/anshulkansal121/LeetCode/tree/master/3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
 ## Matrix
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/anshulkansal121/LeetCode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/anshulkansal121/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2428-equal-row-and-column-pairs](https://github.com/anshulkansal121/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/anshulkansal121/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/anshulkansal121/LeetCode/tree/master/3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
 ## Simulation
 |  |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/anshulkansal121/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/anshulkansal121/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Linked List
 |  |
 | ------- |
@@ -256,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1558-course-schedule-iv](https://github.com/anshulkansal121/LeetCode/tree/master/1558-course-schedule-iv) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/anshulkansal121/LeetCode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/anshulkansal121/LeetCode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/anshulkansal121/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -263,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0820-find-eventual-safe-states](https://github.com/anshulkansal121/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [1558-course-schedule-iv](https://github.com/anshulkansal121/LeetCode/tree/master/1558-course-schedule-iv) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/anshulkansal121/LeetCode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/anshulkansal121/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Binary Tree
 |  |
 | ------- |
