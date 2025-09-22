@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/anshulkansal121/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/anshulkansal121/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/anshulkansal121/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/anshulkansal121/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3427-special-array-ii](https://github.com/anshulkansal121/LeetCode/tree/master/3427-special-array-ii) |
 | [3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/anshulkansal121/LeetCode/tree/master/3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
 ## Matrix
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2428-equal-row-and-column-pairs](https://github.com/anshulkansal121/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/anshulkansal121/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/anshulkansal121/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/anshulkansal121/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Two Pointers
 |  |
 | ------- |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0920-uncommon-words-from-two-sentences](https://github.com/anshulkansal121/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1777-determine-if-two-strings-are-close](https://github.com/anshulkansal121/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/anshulkansal121/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/anshulkansal121/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Union Find
 |  |
 | ------- |
