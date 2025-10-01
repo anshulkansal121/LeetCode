@@ -406,4 +406,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0820-find-eventual-safe-states](https://github.com/anshulkansal121/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [1558-course-schedule-iv](https://github.com/anshulkansal121/LeetCode/tree/master/1558-course-schedule-iv) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/anshulkansal121/LeetCode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
+## Database
+|  |
+| ------- |
+| [1390-average-selling-price](https://github.com/anshulkansal121/LeetCode/tree/master/1390-average-selling-price) |
 <!---LeetCode Topics End-->
