@@ -413,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/anshulkansal121/LeetCode/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0595-big-countries](https://github.com/anshulkansal121/LeetCode/tree/master/0595-big-countries) |
+| [1179-game-play-analysis-i](https://github.com/anshulkansal121/LeetCode/tree/master/1179-game-play-analysis-i) |
 | [1390-average-selling-price](https://github.com/anshulkansal121/LeetCode/tree/master/1390-average-selling-price) |
 | [1664-find-users-with-valid-e-mails](https://github.com/anshulkansal121/LeetCode/tree/master/1664-find-users-with-valid-e-mails) |
 | [1670-patients-with-a-condition](https://github.com/anshulkansal121/LeetCode/tree/master/1670-patients-with-a-condition) |
