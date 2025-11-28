@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0273-integer-to-english-words](https://github.com/anshulkansal121/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0650-2-keys-keyboard](https://github.com/anshulkansal121/LeetCode/tree/master/0650-2-keys-keyboard) |
 | [0870-magic-squares-in-grid](https://github.com/anshulkansal121/LeetCode/tree/master/0870-magic-squares-in-grid) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/anshulkansal121/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1370-count-number-of-nice-subarrays](https://github.com/anshulkansal121/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 ## String
 |  |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0870-magic-squares-in-grid](https://github.com/anshulkansal121/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/anshulkansal121/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0966-binary-subarrays-with-sum](https://github.com/anshulkansal121/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/anshulkansal121/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1370-count-number-of-nice-subarrays](https://github.com/anshulkansal121/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/anshulkansal121/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/anshulkansal121/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
