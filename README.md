@@ -435,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1135-customers-who-bought-all-products](https://github.com/anshulkansal121/LeetCode/tree/master/1135-customers-who-bought-all-products) |
 | [1136-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/anshulkansal121/LeetCode/tree/master/1136-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1155-product-sales-analysis-iii](https://github.com/anshulkansal121/LeetCode/tree/master/1155-product-sales-analysis-iii) |
+| [1158-market-analysis-i](https://github.com/anshulkansal121/LeetCode/tree/master/1158-market-analysis-i) |
 | [1179-game-play-analysis-i](https://github.com/anshulkansal121/LeetCode/tree/master/1179-game-play-analysis-i) |
 | [1245-user-activity-for-the-past-30-days-i](https://github.com/anshulkansal121/LeetCode/tree/master/1245-user-activity-for-the-past-30-days-i) |
 | [1317-monthly-transactions-i](https://github.com/anshulkansal121/LeetCode/tree/master/1317-monthly-transactions-i) |
