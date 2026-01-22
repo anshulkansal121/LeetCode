@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/anshulkansal121/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/anshulkansal121/LeetCode/tree/master/0090-subsets-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/anshulkansal121/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0136-single-number](https://github.com/anshulkansal121/LeetCode/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/anshulkansal121/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/anshulkansal121/LeetCode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anshulkansal121/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -388,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/anshulkansal121/LeetCode/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/anshulkansal121/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/anshulkansal121/LeetCode/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/anshulkansal121/LeetCode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/anshulkansal121/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/anshulkansal121/LeetCode/tree/master/0268-missing-number) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/anshulkansal121/LeetCode/tree/master/2323-minimum-bit-flips-to-convert-number) |
