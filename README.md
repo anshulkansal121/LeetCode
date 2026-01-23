@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/anshulkansal121/LeetCode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/anshulkansal121/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/anshulkansal121/LeetCode/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/anshulkansal121/LeetCode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/anshulkansal121/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/anshulkansal121/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/anshulkansal121/LeetCode/tree/master/0503-next-greater-element-ii) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/anshulkansal121/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anshulkansal121/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/anshulkansal121/LeetCode/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/anshulkansal121/LeetCode/tree/master/0283-move-zeroes) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/anshulkansal121/LeetCode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/anshulkansal121/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/anshulkansal121/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
