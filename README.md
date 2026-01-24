@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/anshulkansal121/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/anshulkansal121/LeetCode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anshulkansal121/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/anshulkansal121/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/anshulkansal121/LeetCode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/anshulkansal121/LeetCode/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/anshulkansal121/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/anshulkansal121/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0128-longest-consecutive-sequence](https://github.com/anshulkansal121/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0160-intersection-of-two-linked-lists](https://github.com/anshulkansal121/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/anshulkansal121/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/anshulkansal121/LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/anshulkansal121/LeetCode/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/anshulkansal121/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/anshulkansal121/LeetCode/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/anshulkansal121/LeetCode/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/anshulkansal121/LeetCode/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/anshulkansal121/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/anshulkansal121/LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/anshulkansal121/LeetCode/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/anshulkansal121/LeetCode/tree/master/0451-sort-characters-by-frequency) |
@@ -246,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/anshulkansal121/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/anshulkansal121/LeetCode/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/anshulkansal121/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/anshulkansal121/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -340,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/anshulkansal121/LeetCode/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/anshulkansal121/LeetCode/tree/master/0169-majority-element) |
 ## Merge Sort
 |  |
 | ------- |
