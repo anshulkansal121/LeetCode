@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/anshulkansal121/LeetCode/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/anshulkansal121/LeetCode/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/anshulkansal121/LeetCode/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/anshulkansal121/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/anshulkansal121/LeetCode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/anshulkansal121/LeetCode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/anshulkansal121/LeetCode/tree/master/0075-sort-colors) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/anshulkansal121/LeetCode/tree/master/0022-generate-parentheses) |
+| [0053-maximum-subarray](https://github.com/anshulkansal121/LeetCode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/anshulkansal121/LeetCode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/anshulkansal121/LeetCode/tree/master/0072-edit-distance) |
 | [0131-palindrome-partitioning](https://github.com/anshulkansal121/LeetCode/tree/master/0131-palindrome-partitioning) |
@@ -343,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/anshulkansal121/LeetCode/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/anshulkansal121/LeetCode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/anshulkansal121/LeetCode/tree/master/0169-majority-element) |
 ## Merge Sort
