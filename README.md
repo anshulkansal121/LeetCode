@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/anshulkansal121/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/anshulkansal121/LeetCode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/anshulkansal121/LeetCode/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/anshulkansal121/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/anshulkansal121/LeetCode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/anshulkansal121/LeetCode/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/anshulkansal121/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/anshulkansal121/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/anshulkansal121/LeetCode/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/anshulkansal121/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0870-magic-squares-in-grid](https://github.com/anshulkansal121/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/anshulkansal121/LeetCode/tree/master/0921-spiral-matrix-iii) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/anshulkansal121/LeetCode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/anshulkansal121/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anshulkansal121/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0073-set-matrix-zeroes](https://github.com/anshulkansal121/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/anshulkansal121/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0160-intersection-of-two-linked-lists](https://github.com/anshulkansal121/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/anshulkansal121/LeetCode/tree/master/0169-majority-element) |
