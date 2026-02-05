@@ -254,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/anshulkansal121/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/anshulkansal121/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/anshulkansal121/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/anshulkansal121/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/anshulkansal121/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2232-adding-spaces-to-a-string](https://github.com/anshulkansal121/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/anshulkansal121/LeetCode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0328-odd-even-linked-list](https://github.com/anshulkansal121/LeetCode/tree/master/0328-odd-even-linked-list) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/anshulkansal121/LeetCode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/anshulkansal121/LeetCode/tree/master/0876-middle-of-the-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/anshulkansal121/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Tree
 |  |
 | ------- |
