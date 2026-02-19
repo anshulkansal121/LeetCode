@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/anshulkansal121/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/anshulkansal121/LeetCode/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/anshulkansal121/LeetCode/tree/master/0273-integer-to-english-words) |
+| [0445-add-two-numbers-ii](https://github.com/anshulkansal121/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0650-2-keys-keyboard](https://github.com/anshulkansal121/LeetCode/tree/master/0650-2-keys-keyboard) |
 | [0870-magic-squares-in-grid](https://github.com/anshulkansal121/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/anshulkansal121/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/anshulkansal121/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/anshulkansal121/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/anshulkansal121/LeetCode/tree/master/0328-odd-even-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/anshulkansal121/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/anshulkansal121/LeetCode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/anshulkansal121/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/anshulkansal121/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -417,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/anshulkansal121/LeetCode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/anshulkansal121/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/anshulkansal121/LeetCode/tree/master/0402-remove-k-digits) |
+| [0445-add-two-numbers-ii](https://github.com/anshulkansal121/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/anshulkansal121/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/anshulkansal121/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/anshulkansal121/LeetCode/tree/master/0735-asteroid-collision) |
