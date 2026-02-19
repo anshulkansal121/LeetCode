@@ -323,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0328-odd-even-linked-list](https://github.com/anshulkansal121/LeetCode/tree/master/0328-odd-even-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/anshulkansal121/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/anshulkansal121/LeetCode/tree/master/0528-swapping-nodes-in-a-linked-list) |
+| [0707-design-linked-list](https://github.com/anshulkansal121/LeetCode/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/anshulkansal121/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/anshulkansal121/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Tree
@@ -434,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/anshulkansal121/LeetCode/tree/master/0155-min-stack) |
+| [0707-design-linked-list](https://github.com/anshulkansal121/LeetCode/tree/master/0707-design-linked-list) |
 ## Greedy
 |  |
 | ------- |
