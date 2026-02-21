@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0943-sum-of-subarray-minimums](https://github.com/anshulkansal121/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [0966-binary-subarrays-with-sum](https://github.com/anshulkansal121/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1002-maximum-width-ramp](https://github.com/anshulkansal121/LeetCode/tree/master/1002-maximum-width-ramp) |
+| [1019-next-greater-node-in-linked-list](https://github.com/anshulkansal121/LeetCode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1063-best-sightseeing-pair](https://github.com/anshulkansal121/LeetCode/tree/master/1063-best-sightseeing-pair) |
 | [1370-count-number-of-nice-subarrays](https://github.com/anshulkansal121/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/anshulkansal121/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -325,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/anshulkansal121/LeetCode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0707-design-linked-list](https://github.com/anshulkansal121/LeetCode/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/anshulkansal121/LeetCode/tree/master/0876-middle-of-the-linked-list) |
+| [1019-next-greater-node-in-linked-list](https://github.com/anshulkansal121/LeetCode/tree/master/1019-next-greater-node-in-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/anshulkansal121/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Tree
 |  |
@@ -428,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0943-sum-of-subarray-minimums](https://github.com/anshulkansal121/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/anshulkansal121/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/anshulkansal121/LeetCode/tree/master/1002-maximum-width-ramp) |
+| [1019-next-greater-node-in-linked-list](https://github.com/anshulkansal121/LeetCode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/anshulkansal121/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/anshulkansal121/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2227-sum-of-subarray-ranges](https://github.com/anshulkansal121/LeetCode/tree/master/2227-sum-of-subarray-ranges) |
@@ -454,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/anshulkansal121/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/anshulkansal121/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [1002-maximum-width-ramp](https://github.com/anshulkansal121/LeetCode/tree/master/1002-maximum-width-ramp) |
+| [1019-next-greater-node-in-linked-list](https://github.com/anshulkansal121/LeetCode/tree/master/1019-next-greater-node-in-linked-list) |
 | [2227-sum-of-subarray-ranges](https://github.com/anshulkansal121/LeetCode/tree/master/2227-sum-of-subarray-ranges) |
 ## Bit Manipulation
 |  |
