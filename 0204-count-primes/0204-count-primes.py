@@ -7,7 +7,6 @@ class Solution:
         # Sieve of Eratosthenes algorithm
         while p * p <= n:
             if prime[p]:
-                
                 # Mark all multiples of p as non-prime
                 for i in range(p * p, n + 1, p):
                     prime[i] = False
